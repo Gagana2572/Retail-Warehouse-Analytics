@@ -1,0 +1,164 @@
+
+======================================================================
+RETAIL & WAREHOUSE ANALYTICS
+EXECUTIVE SUMMARY REPORT
+======================================================================
+
+Generated:       2026-05-10 21:23:16
+Analysis Period: 2020-01 to 2020-09
+Total Years:     1 | Total Months: 4
+
+======================================================================
+1. KEY BUSINESS METRICS
+======================================================================
+
+VOLUME PERFORMANCE:
+  • Total Volume (All Channels): 1,241,750.88
+  • Total Retail Sales:          208,135.11 (16.8%)
+  • Total Warehouse Sales:       835,774.66 (67.3%)
+  • Total Retail Transfers:      197,841.11 (15.9%)
+  • Avg Monthly Volume:          310,437.72
+  • YoY Growth (Latest Year):    0.00%
+
+SUPPLIER METRICS:
+  • Total Suppliers:             289
+  • Top Supplier:                CROWN IMPORTS
+  • Top Supplier Share:          16.21%
+  • Pareto (80% of volume):      22 suppliers (7.6%)
+  • Avg Supplier Lifetime Value: 39,389.57
+  • Total Projected SLV (36mo):  11,383,586.70
+  • Premium SLV Suppliers:       72 (24.9%)
+
+ITEM METRICS:
+  • Total Unique Items:          15,694
+  • Total Item Types:            7
+  • Top Item Type:               BEER (65.4% of volume)
+
+TEMPORAL PEAKS:
+  • Peak Month:                  2020-07
+  • Peak Quarter:                Q1
+  • Peak Season:                 Summer
+
+======================================================================
+2. SUPPLIER SEGMENTATION INSIGHTS
+======================================================================
+
+
+Star Suppliers:
+  • Suppliers:         76 (26.3%)
+  • Total Volume:      1,078,790.34
+  • Revenue Share:     86.9%
+  • Avg Volume:        14,194.61
+  • Avg Months Active: 4.0
+
+High Volume:
+  • Suppliers:         35 (12.1%)
+  • Total Volume:      141,254.81
+  • Revenue Share:     11.4%
+  • Avg Volume:        4,035.85
+  • Avg Months Active: 3.6
+
+Steady:
+  • Suppliers:         78 (27.0%)
+  • Total Volume:      16,055.68
+  • Revenue Share:     1.3%
+  • Avg Volume:        205.84
+  • Avg Months Active: 3.1
+
+Declining:
+  • Suppliers:         23 (8.0%)
+  • Total Volume:      3,495.72
+  • Revenue Share:     0.3%
+  • Avg Volume:        151.99
+  • Avg Months Active: 2.8
+
+Inactive / At Risk:
+  • Suppliers:         61 (21.1%)
+  • Total Volume:      1,567.66
+  • Revenue Share:     0.1%
+  • Avg Volume:        25.70
+  • Avg Months Active: 2.1
+
+New / Low Volume:
+  • Suppliers:         16 (5.5%)
+  • Total Volume:      586.67
+  • Revenue Share:     0.1%
+  • Avg Volume:        36.67
+  • Avg Months Active: 2.8
+
+
+======================================================================
+3. TOP ITEM TYPES BY VOLUME
+======================================================================
+
+  1. BEER: 811,864.32 (65.4%)
+  2. WINE: 237,783.49 (19.1%)
+  3. LIQUOR: 170,141.00 (13.7%)
+  4. NON-ALCOHOL: 12,197.12 (1.0%)
+  5. KEGS: 8,444.00 (0.7%)
+  6. STR_SUPPLIES: 1,240.60 (0.1%)
+  7. REF: 80.35 (0.0%)
+
+
+======================================================================
+4. KEY FINDINGS & INSIGHTS
+======================================================================
+
+POSITIVE TRENDS:
+  ✓ 22 suppliers generate 80% of total volume — manageable concentration
+  ✓ BEER dominates with 65.4% revenue share
+  ✓ Summer is the peak season — allows proactive stocking
+  ✓ 72 Premium SLV suppliers identified for priority engagement
+
+AREAS FOR IMPROVEMENT:
+  ⚠ High supplier concentration — top supplier holds 16.2% of volume
+  ⚠ YoY growth at 0.0% — monitor trajectory
+  ⚠ Inactive/At Risk suppliers need re-engagement strategy
+
+OPPORTUNITIES:
+  • Grow volume with High Volume and Emerging supplier segments
+  • Expand item range in top-performing item types
+  • Optimize inventory levels around peak season (Summer)
+  • Negotiate better terms with Star Suppliers using SLV data
+
+======================================================================
+5. STRATEGIC RECOMMENDATIONS
+======================================================================
+
+IMMEDIATE ACTIONS (0-30 Days):
+  1. Launch supplier retention programme for Declining segment
+  2. Negotiate volume incentives with Star Suppliers
+  3. Review and deactivate consistently inactive suppliers
+  4. Set up monthly KPI tracking dashboard
+
+SHORT-TERM INITIATIVES (2-3 Months):
+  1. Develop supplier scorecards using AFV + SLV metrics
+  2. Expand product range in top item types
+  3. Build seasonal demand forecasting model
+  4. Implement supplier onboarding process for Emerging segment
+
+LONG-TERM STRATEGY (6-12 Months):
+  1. Reduce supplier concentration risk (diversify top 10)
+  2. Build predictive volume forecasting model
+  3. Automate supplier performance reporting
+  4. Explore warehouse vs retail channel optimisation
+
+EXPECTED IMPACT:
+  • Volume growth:            10-15%
+  • Supplier retention:       20-25%
+  • Operational efficiency:   15-20%
+  • Forecast accuracy:        25-30%
+
+======================================================================
+6. NEXT STEPS
+
+
+  1. Present findings to procurement and sales teams
+  2. Prioritise supplier engagement actions by segment
+  3. Establish monthly KPI review cadence
+  4. Build Power BI / Tableau dashboard from prepared data
+  5. Begin seasonal demand forecasting modelling
+
+======================================================================
+END OF EXECUTIVE SUMMARY
+======================================================================

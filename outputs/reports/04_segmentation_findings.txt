@@ -1,0 +1,10 @@
+KEY FINDINGS - SEGMENTATION ANALYSIS
+============================================================
+
+1. 76 Star Suppliers generate 86.9% of total volume
+2. Cluster 3 (High Volume) contributes 48.6% of revenue with 4 suppliers
+3. Highest SLV supplier: 'CROWN IMPORTS' (projected 1,812,003 over 36 months)
+4. Top 22 suppliers (7.6%) generate 80% of total volume (Pareto confirmed)
+5. 72 Premium SLV suppliers account for 95.6% of current volume
+
+Generated: 2026-05-10 21:23:01

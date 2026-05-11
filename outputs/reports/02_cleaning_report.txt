@@ -1,0 +1,27 @@
+
+DATA CLEANING REPORT
+
+1. DATA QUALITY
+   Before: 30,000 rows | After: 29,901 rows
+   Rows removed: 99
+   Missing values remaining: 0
+   Duplicates remaining: 0
+
+2. TREATMENTS APPLIED
+   - Filled missing RETAIL SALES with median
+   - Filled missing SUPPLIER with mode
+   - Removed 98 rows with negative sales values
+   - Outlier capping via IQR on RETAIL SALES, RETAIL TRANSFERS, WAREHOUSE SALES
+
+3. FEATURES ENGINEERED (13 new columns)
+   - DATE (from YEAR + MONTH)
+   - QUARTER, MONTH_NAME, SEASON
+   - TOTAL SALES, RETAIL RATIO, WAREHOUSE RATIO
+   - SALES CATEGORY
+   - SUPPLIER_TOTAL_SALES, SUPPLIER_AVG_SALES, SUPPLIER_RECORD_COUNT
+   - ITEMTYPE_TOTAL_SALES, ITEMTYPE_AVG_SALES
+
+4. DATE RANGE
+   2020-01 to 2020-09
+
+Report Generated: 2026-05-10 21:21:29

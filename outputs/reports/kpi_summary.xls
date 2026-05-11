@@ -1,0 +1,47 @@
+KPI,Value
+Total_Retail_Sales,208135.11
+Total_Transfers,197841.11
+Total_Warehouse_Sales,835774.66
+Total_Volume,1241750.88026847
+Avg_Monthly_Volume,310437.7200671175
+Avg_Record_Volume,41.52874085376643
+Retail_Share_Pct,16.76142238409371
+Warehouse_Share_Pct,67.30614596538908
+Transfer_Share_Pct,15.932431628896948
+Total_Suppliers,289
+Total_Records,29901
+Avg_Volume_Per_Supplier,4296.715848679827
+Top_Supplier,CROWN IMPORTS
+Top_Supplier_Volume,201333.62002
+Top_Supplier_Share_Pct,16.213688527965537
+Pareto_Suppliers_80pct,22
+Pareto_Suppliers_Pct,7.612456747404845
+Total_Items,15694
+Total_Item_Types,7
+Avg_Volume_Per_Item,79.12265071163948
+Top_Item_Type,BEER
+Top_Item_Type_Share,65.38061162834632
+Avg_SLV,39389.57336728453
+Median_SLV,2691.1199676
+Total_Projected_SLV,11383586.70314523
+Premium_SLV_Count,72
+Premium_SLV_Share_Pct,24.91349480968858
+Segment_Steady_Count,78
+Segment_Steady_Pct,26.989619377162633
+Segment_Star Suppliers_Count,76
+Segment_Star Suppliers_Pct,26.297577854671278
+Segment_Inactive / At Risk_Count,61
+Segment_Inactive / At Risk_Pct,21.10726643598616
+Segment_High Volume_Count,35
+Segment_High Volume_Pct,12.110726643598616
+Segment_Declining_Count,23
+Segment_Declining_Pct,7.958477508650519
+Segment_New / Low Volume_Count,16
+Segment_New / Low Volume_Pct,5.536332179930796
+Analysis_Start,2020-01
+Analysis_End,2020-09
+Total_Months,4
+Total_Years,1
+Peak_Month,2020-07
+Peak_Quarter,Q1
+Peak_Season,Summer

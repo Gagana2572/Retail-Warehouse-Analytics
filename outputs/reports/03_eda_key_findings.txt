@@ -1,0 +1,10 @@
+KEY FINDINGS FROM EXPLORATORY DATA ANALYSIS
+1. 'BEER' is the top item type, generating 65.4% of total revenue
+2. Top supplier 'CROWN IMPORTS' generates 16.2% of total revenue
+3. Top 22 suppliers (7.6%) generate 80% of revenue (Pareto confirmed)
+4. Q1 is the peak quarter, accounting for 50.4% of annual sales
+5. Summer is the peak season with 48.1% of total sales
+6. Sales channel split: Retail 16.8% vs Warehouse 67.3%
+7. Best-selling item: 'CORONA EXTRA LOOSE NR - 12OZ'
+
+Generated: 2026-05-10 21:22:23
